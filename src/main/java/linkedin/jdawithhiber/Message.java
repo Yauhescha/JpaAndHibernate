@@ -1,4 +1,4 @@
-package linkedin.jdawithhiber;// Generated Jan 9, 2017 10:28:21 AM by Hibernate Tools 4.3.1
+package linkedin.jdawithhiber;
 
 public class Message implements java.io.Serializable {
 
